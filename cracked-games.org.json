@@ -125,7 +125,6 @@
       "uploadDate": "2026-01-12T23:00:00.000Z",
       "fileSize": "11.3 GB"
     },
-
     {
       "title": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
       "uris": [
@@ -135,7 +134,7 @@
       "uploadDate": "2026-01-12T23:00:00.000Z",
       "fileSize": "3.3 GB"
     },
-     {
+    {
       "title": "World of Subways 4 – New York Line 7 (build 937572)",
       "uris": [
         "https://pixeldrain.com/u/2pynvyMX",
@@ -144,7 +143,7 @@
       "uploadDate": "2026-01-12T23:00:00.000Z",
       "fileSize": "2.0 GB"
     },
-     {
+    {
       "title": "Amnesia: The Bunker",
       "uris": [
         "https://www.rootz.so/d/24EP8S",
@@ -153,7 +152,7 @@
       "uploadDate": "2026-01-12T23:00:00.000Z",
       "fileSize": "6.3 GB"
     },
-     {
+    {
       "title": "CRUMB Circuit Simulator (Build 17183476)",
       "uris": [
         "https://pixeldrain.com/u/ystJKN4E",
@@ -162,7 +161,7 @@
       "uploadDate": "2026-01-12T23:00:00.000Z",
       "fileSize": "106 MB"
     },
-     {
+    {
       "title": "NieR Replicant (Version 1.22474487139)",
       "uris": [
         "https://www.rootz.so/d/2DJ9Bw",
@@ -171,7 +170,7 @@
       "uploadDate": "2026-01-12T23:00:00.000Z",
       "fileSize": "13.4 GB"
     },
-     {
+    {
       "title": "Thief",
       "uris": [
         "https://vik1ngfile.site/f/pHTneSSJW8"
@@ -179,7 +178,7 @@
       "uploadDate": "2026-01-12T23:00:00.000Z",
       "fileSize": "15.3 GB"
     },
-     {
+    {
       "title": "DmC: Devil May Cry (Build 18562629)",
       "uris": [
         "https://www.rootz.so/d/W7Erg",
@@ -188,7 +187,7 @@
       "uploadDate": "2026-01-12T23:00:00.000Z",
       "fileSize": "7.6 GB"
     },
-     {
+    {
       "title": "My Dream Setup (Build 20604374)",
       "uris": [
         "https://pixeldrain.com/u/J96MBUKz",
@@ -197,7 +196,7 @@
       "uploadDate": "2026-01-12T23:00:00.000Z",
       "fileSize": "4.0 GB"
     },
-     {
+    {
       "title": "Bully: Scholarship Edition",
       "uris": [
         "https://pixeldrain.com/u/r9jVHRzU",
@@ -206,7 +205,7 @@
       "uploadDate": "2026-01-12T23:00:00.000Z",
       "fileSize": "2.8 GB"
     },
-     {
+    {
       "title": "Etrian Odyssey HD",
       "uris": [
         "https://vik1ngfile.site/f/4Xc7YLrQAR"
@@ -214,7 +213,7 @@
       "uploadDate": "2026-01-12T23:00:00.000Z",
       "fileSize": "848 MB"
     },
-     {
+    {
       "title": "Bombe (Build 28062023)",
       "uris": [
         "https://pixeldrain.com/u/9b6YkP7S",
@@ -223,7 +222,7 @@
       "uploadDate": "2026-01-12T16:00:00.000Z",
       "fileSize": "53 MB"
     },
-     {
+    {
       "title": "It's Only Money (Build 17163606)",
       "uris": [
         "https://pixeldrain.com/u/vWCBpAWE",
@@ -232,7 +231,7 @@
       "uploadDate": "2026-01-12T16:00:00.000Z",
       "fileSize": "2.2 GB"
     },
-     {
+    {
       "title": "Jagged Alliance 3 (Build 17409065)",
       "uris": [
         "https://www.rootz.so/d/1UylpA",
@@ -241,7 +240,7 @@
       "uploadDate": "2026-01-12T16:00:00.000Z",
       "fileSize": "13.9 GB"
     },
-     {
+    {
       "title": "Contraband Police (v20250130)",
       "uris": [
         "https://www.rootz.so/d/1Qwuxc",
@@ -249,9 +248,9 @@
       ],
       "uploadDate": "2026-01-12T16:00:00.000Z",
       "fileSize": "13.88 GB"
-    }
+    },
     {
-      "title": "Alchemy Factory (Build 21344204 + Multiplayer) ",
+      "title": "Alchemy Factory (Build 21344204 + Multiplayer)",
       "uris": [
         "https://www.rootz.so/d/O3Bcu",
         "https://vik1ngfile.site/f/KF4BLTeHsI"
@@ -277,6 +276,6 @@
       ],
       "uploadDate": "2026-01-12T16:00:00.000Z",
       "fileSize": "1.0 GB"
-    },
+    }
   ]
 }
